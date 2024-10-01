@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\services\\contatovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\services\\contatovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\data\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\data\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\repositories\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\repositories\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\controllers\\contatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\controllers\\contatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\services\\ienderecovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\services\\ienderecovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\services\\icontatovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\services\\icontatovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\services\\enderecovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\services\\enderecovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\migrations\\20240907160048_inicialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\migrations\\20240907160048_inicialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\controllers\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\controllers\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|c:\\users\\fabiola\\desktop\\agendadecontatosbio\\agendadecontatos3\\agendadecontatos3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{172355BC-702C-499C-B597-EF2A5E874259}|AgendaDeContatos3\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnderecoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Controllers\\EnderecoDto.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Controllers\\EnderecoDto.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Controllers\\EnderecoDto.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Controllers\\EnderecoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:48:45.454Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Program.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:46:12.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Controllers\\ContatosController.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Controllers\\ContatosController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAArwLQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:23:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Repositories\\ContatoRepository.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\ContatoRepository.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Repositories\\ContatoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:30:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Data\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Data\\AgendaContext.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Data\\AgendaContext.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Data\\AgendaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:14:50.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Repositories\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\EnderecoRepository.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Repositories\\EnderecoRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwCUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:32:29.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\IContatoRepository.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Repositories\\IContatoRepository.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\IContatoRepository.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Repositories\\IContatoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:28:15.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\IEnderecoRepository.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Repositories\\IEnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Repositories\\IEnderecoRepository.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Repositories\\IEnderecoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:32:51.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:47:12.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\ContatoValidator.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Services\\ContatoValidator.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\ContatoValidator.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Services\\ContatoValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:15:08.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContatoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Controllers\\ContatoDto.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Controllers\\ContatoDto.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Controllers\\ContatoDto.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Controllers\\ContatoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:35:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEnderecoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\IEnderecoValidator.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Services\\IEnderecoValidator.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\IEnderecoValidator.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Services\\IEnderecoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:18:09.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnderecoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\EnderecoValidator.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Services\\EnderecoValidator.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\EnderecoValidator.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Services\\EnderecoValidator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:18:31.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContatoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\IContatoValidator.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Services\\IContatoValidator.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Services\\IContatoValidator.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Services\\IContatoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:30:58.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Models\\Endereco.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:38:50.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Models\\Contato.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Models\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:15:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240907160048_InicialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Migrations\\20240907160048_InicialCreate.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Migrations\\20240907160048_InicialCreate.cs",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Migrations\\20240907160048_InicialCreate.cs",
+              "RelativeToolTip": "AgendaDeContatos3\\Migrations\\20240907160048_InicialCreate.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:00:49.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AgendaDeContatos3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fabiola\\Desktop\\AgendaDeContatosBio\\AgendaDeContatos3\\AgendaDeContatos3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AgendaDeContatos3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T00:10:13.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

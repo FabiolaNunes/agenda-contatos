@@ -1,0 +1,6 @@
+@AgendaDeContatos3_HostAddress = http://localhost:5125
+
+GET {{AgendaDeContatos3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

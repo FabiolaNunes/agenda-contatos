@@ -1,0 +1,155 @@
+[
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "ListarContatos",
+    "RelativePath": "api/Contatos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "AdicionarContato",
+    "RelativePath": "api/Contatos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contato",
+        "Type": "AgendaDeContatos.Controllers.ContatoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "BuscarPorId",
+    "RelativePath": "api/Contatos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "EditarContato",
+    "RelativePath": "api/Contatos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contatoAtualizado",
+        "Type": "AgendaDeContatos.Controllers.ContatoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "ExcluirContato",
+    "RelativePath": "api/Contatos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "AdicionarEndereco",
+    "RelativePath": "api/Contatos/adicionar-endereco/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "endereco",
+        "Type": "AgendaDeContatos.Controllers.EnderecoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "BuscarEnderecoPorId",
+    "RelativePath": "api/Contatos/Buscar-endereco/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "EditarEndereco",
+    "RelativePath": "api/Contatos/enderecos-editar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "enderecoAtualizado",
+        "Type": "AgendaDeContatos.Controllers.EnderecoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaDeContatos.Controllers.ContatosController",
+    "Method": "ExcluirEndereco",
+    "RelativePath": "api/Contatos/enderecos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
